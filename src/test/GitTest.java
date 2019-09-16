@@ -6,6 +6,7 @@ public class GitTest {
 		// TODO Auto-generated method stub
 
 		int sum=0;
+		int x=1;
 	}
 
 }
